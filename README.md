@@ -25,7 +25,7 @@
 
 - dynamic pages
 
-[![Experimental](https://skillicons.dev/icons?i=docker,postgres,nodejs,svelte,ts,html,css,tailwind)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=docker,sqlite,nodejs,svelte,ts,html,css,tailwind)](https://github.com/henahax/)
 
 - static pages
 
